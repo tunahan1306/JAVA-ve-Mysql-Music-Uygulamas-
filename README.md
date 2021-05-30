@@ -1,0 +1,2 @@
+# JAVA ve Mysql Music Uygulaması
+ Uygulama Mysql veritabanından çekilen verilerle çalışmaktadır. Uygulama çalıştığında kullanıcıyı ilk olarak giriş ekranı karşılamaktadır. Giriş ekranında admin ve kullanıcı giriş ekranı bulunmaktadır.Burada kullanıcı adi ve şifreyle giriş yaptıktan sonra admin ekranında şarkılar,şarkı ekle ,düzenle ve sil kısımları var. Kullanıcı ekranında ise şarkılar,en iyi pop,caz ve klasik listeler ve kendi pop,caz ve klasik oynatma listeleri bulunmaktadır.Kullanıcı ekranında bir de kullanıcı takip eme ve şarkılarını listene ekle butonları bulunmaktadır.
